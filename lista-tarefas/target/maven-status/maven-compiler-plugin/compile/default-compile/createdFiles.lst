@@ -1,0 +1,4 @@
+com\arantesds\lista_tarefas\controllers\TarefaController.class
+com\arantesds\lista_tarefas\repositories\TarefaRepository.class
+com\arantesds\lista_tarefas\models\Tarefa.class
+com\arantesds\lista_tarefas\ListaTarefasApplication.class
