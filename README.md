@@ -45,7 +45,7 @@ A API permite realizar as seguintes operações na entidade `Tarefa`:
 2.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/marcosarantesj/spring-boot-todo-api.git
     ```
 
 3.  **Abra e execute:**
